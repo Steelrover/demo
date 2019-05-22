@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "name": "Lean Graham", "modelId": 1, "dateAdd": "03.12.2019", "views": 150, "viewsWeek": 70, "status": "Показано" },
-    { "id": 2, "name": "Ervina Howell", "modelId": 2, "dateAdd": "03.23.2019", "views": 170, "viewsWeek": 50, "status": "Показано" },
-    { "id": 3, "name": "Victor Plains", "modelId": 3, "dateAdd": "04.08.2019", "views": 190, "viewsWeek": 80, "status": "Показано" },
-    { "id": 4, "name": "Lean Graham", "modelId": 1, "dateAdd": "04.17.2019", "views": 130, "viewsWeek": 90, "status": "Показано" },
-    { "id": 5, "name": "Clementina Bauch", "modelId": 4, "dateAdd": "05.06.2019", "views": 140, "viewsWeek": 60, "status": "Показано" }
+    { "id": 1, "name": "Lean Graham", "modelId": 1, "dateAdd": "13.03.2019", "views": 150, "viewsWeek": 70, "status": "Показано" },
+    { "id": 2, "name": "Ervina Howell", "modelId": 2, "dateAdd": "23.03.2019", "views": 170, "viewsWeek": 50, "status": "Показано" },
+    { "id": 3, "name": "Victor Plains", "modelId": 3, "dateAdd": "08.04.2019", "views": 190, "viewsWeek": 80, "status": "Показано" },
+    { "id": 4, "name": "Lean Graham", "modelId": 1, "dateAdd": "17.04.2019", "views": 130, "viewsWeek": 90, "status": "Показано" },
+    { "id": 5, "name": "Clementina Bauch", "modelId": 4, "dateAdd": "06.05.2019", "views": 140, "viewsWeek": 60, "status": "Показано" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
