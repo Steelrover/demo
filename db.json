@@ -1,11 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "userId": 1, "body": "Lorem ipsum" },
-    { "id": 2, "title": "Post 2", "userId": 2, "body": "Lopsum irum" },
-    { "id": 3, "title": "Post 3", "userId": 3, "body": "Ipsum lorem" },
-    { "id": 4, "title": "Post 4", "userId": 2, "body": "Lorem ipsum2" },
-    { "id": 5, "title": "Post 5", "userId": 1, "body": "Lopsum irum2" },
-    { "id": 6, "title": "Post 6", "userId": 3, "body": "Ipsum lorem2" }
+    { "id": 1, "name": "Lean Graham", "modelId": 1, "dateAdd": "12.03.2019", "views": 150, "viewsWeek": 70, "status": "shown" },
+    { "id": 2, "name": "Ervina Howell", "modelId": 2, "dateAdd": "12.03.2019", "views": 170, "viewsWeek": 50, "status": "shown" },
+    { "id": 3, "name": "Victor Plains", "modelId": 3, "dateAdd": "12.03.2019", "views": 190, "viewsWeek": 80, "status": "shown" },
+    { "id": 4, "name": "Leanne Graham", "modelId": 1, "dateAdd": "12.03.2019", "views": 130, "viewsWeek": 90, "status": "shown" },
+    { "id": 5, "name": "Clementina Bauch", "modelId": 4, "dateAdd": "12.03.2019", "views": 140, "viewsWeek": 60, "status": "shown" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
