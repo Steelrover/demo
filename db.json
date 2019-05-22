@@ -1,10 +1,10 @@
 {
   "posts": [
-    { "id": 1, "Имя модели": "Lean Graham", "modelId": 1, "dateAdd": "12.03.2019", "views": 150, "viewsWeek": 70, "status": "shown" },
-    { "id": 2, "Имя модели": "Ervina Howell", "modelId": 2, "dateAdd": "23.03.2019", "views": 170, "viewsWeek": 50, "status": "shown" },
-    { "id": 3, "Имя модели": "Victor Plains", "modelId": 3, "dateAdd": "08.04.2019", "views": 190, "viewsWeek": 80, "status": "shown" },
-    { "id": 4, "Имя модели": "Leanne Graham", "modelId": 1, "dateAdd": "17.04.2019", "views": 130, "viewsWeek": 90, "status": "shown" },
-    { "id": 5, "Имя модели": "Clementina Bauch", "modelId": 4, "dateAdd": "06.05.2019", "views": 140, "viewsWeek": 60, "status": "shown" }
+    { "id": 1, "Имя модели": "Lean Graham", "Id модели": 1, "Дата добавления": "12.03.2019", "Просмотры": 150, "Просмотры за неделю": 70, "Статус": "shown" },
+    { "id": 2, "Имя модели": "Ervina Howell", "Id модели": 2, "Дата добавления": "23.03.2019", "Просмотры": 170, "Просмотры за неделю": 50, "Статус": "shown" },
+    { "id": 3, "Имя модели": "Victor Plains", "Id модели": 3, "Дата добавления": "08.04.2019", "Просмотры": 190, "Просмотры за неделю": 80, "Статус": "shown" },
+    { "id": 4, "Имя модели": "Leanne Graham", "Id модели": 1, "Дата добавления": "17.04.2019", "Просмотры": 130, "Просмотры за неделю": 90, "Статус": "shown" },
+    { "id": 5, "Имя модели": "Clementina Bauch", "Id модели": 4, "Дата добавления": "06.05.2019", "Просмотры": 140, "Просмотры за неделю": 60, "Статус": "shown" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
