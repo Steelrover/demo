@@ -1,15 +1,15 @@
 {
   "posts": [
     { "id": 1, "name": "Lean Graham", "modelId": 1, "dateAdd": "03.13.2019", 
-      "views": 150, "viewsWeek": 70, "status": true, "pictures": [{url: "https://sun7-3.userapi.com/c635101/v635101770/5630a/VVwhsj37C2k.jpg"}, {url: "https://pp.userapi.com/c635101/v635101770/562cc/Yzb5tzgAUkY.jpg"}, {url: "https://pp.userapi.com/c635101/v635101770/562a2/ltzB6w2qmlg.jpg"}] },
+      "views": 150, "viewsWeek": 70, "status": true, "pictures": [{"url": "https://sun7-3.userapi.com/c635101/v635101770/5630a/VVwhsj37C2k.jpg"}, {"url": "https://pp.userapi.com/c635101/v635101770/562cc/Yzb5tzgAUkY.jpg"}, {"url": "https://pp.userapi.com/c635101/v635101770/562a2/ltzB6w2qmlg.jpg"}] },
     { "id": 2, "name": "Ervina Howell", "modelId": 2, "dateAdd": "03.23.2019", 
-      "views": 170, "viewsWeek": 50, "status": true, "pictures": [{url: "https://pp.userapi.com/c635101/v635101770/56239/tihWKt8vP9c.jpg"}, {url: "https://sun7-2.userapi.com/c635101/v635101770/56227/3TOkjDYEOtc.jpg"}] },
+      "views": 170, "viewsWeek": 50, "status": true, "pictures": [{"url": "https://pp.userapi.com/c635101/v635101770/56239/tihWKt8vP9c.jpg"}, {"url": "https://sun7-2.userapi.com/c635101/v635101770/56227/3TOkjDYEOtc.jpg"}] },
     { "id": 3, "name": "Victor Plains", "modelId": 3, "dateAdd": "04.08.2019", 
-      "views": 190, "viewsWeek": 80, "status": true, "pictures": [{url: "https://pp.userapi.com/c635101/v635101770/56215/slcbTdIHZGA.jpg"}, {url: "https://pp.userapi.com/c635101/v635101770/5615a/GvNsLEiVX8Y.jpg"}] },
+      "views": 190, "viewsWeek": 80, "status": true, "pictures": [{"url": "https://pp.userapi.com/c635101/v635101770/56215/slcbTdIHZGA.jpg"}, {"url": "https://pp.userapi.com/c635101/v635101770/5615a/GvNsLEiVX8Y.jpg"}] },
     { "id": 4, "name": "Lean Graham", "modelId": 1, "dateAdd": "04.17.2019", 
-      "views": 130, "viewsWeek": 90, "status": false, "pictures": [{url: "https://pp.userapi.com/c635101/v635101770/560b7/gRBj74-_qBI.jpg"}] },
+      "views": 130, "viewsWeek": 90, "status": false, "pictures": [{"url": "https://pp.userapi.com/c635101/v635101770/560b7/gRBj74-_qBI.jpg"}] },
     { "id": 5, "name": "Clementina Bauch", "modelId": 4, "dateAdd": "05.06.2019", 
-      "views": 140, "viewsWeek": 60, "status": true, "pictures": [{url: "https://sun7-3.userapi.com/c850132/v850132648/14943c/iixgwdLXlrE.jpg"}] }
+      "views": 140, "viewsWeek": 60, "status": true, "pictures": [{"url": "https://sun7-3.userapi.com/c850132/v850132648/14943c/iixgwdLXlrE.jpg"}] }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -17,76 +17,6 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "users": [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "username": "Bret",
-      "email": "Sincere@april.biz",
-      "address": {
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "city": "Gwenborough",
-        "zipcode": "92998-3874",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        }
-      },
-      "phone": "1-770-736-8031 x56442",
-      "website": "hildegard.org",
-      "company": {
-        "name": "Romaguera-Crona",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "bs": "harness real-time e-markets"
-      }
-    },
-    {
-      "id": 2,
-      "name": "Ervin Howell",
-      "username": "Antonette",
-      "email": "Shanna@melissa.tv",
-      "address": {
-        "street": "Victor Plains",
-        "suite": "Suite 879",
-        "city": "Wisokyburgh",
-        "zipcode": "90566-7771",
-        "geo": {
-          "lat": "-43.9509",
-          "lng": "-34.4618"
-        }
-      },
-      "phone": "010-692-6593 x09125",
-      "website": "anastasia.net",
-      "company": {
-        "name": "Deckow-Crist",
-        "catchPhrase": "Proactive didactic contingency",
-        "bs": "synergize scalable supply-chains"
-      }
-    },
-    {
-      "id": 3,
-      "name": "Clementine Bauch",
-      "username": "Samantha",
-      "email": "Nathan@yesenia.net",
-      "address": {
-        "street": "Douglas Extension",
-        "suite": "Suite 847",
-        "city": "McKenziehaven",
-        "zipcode": "59590-4157",
-        "geo": {
-          "lat": "-68.6102",
-          "lng": "-47.0653"
-        }
-      },
-      "phone": "1-463-123-4447",
-      "website": "ramiro.info",
-      "company": {
-        "name": "Romaguera-Jacobson",
-        "catchPhrase": "Face to face bifurcated interface",
-        "bs": "e-enable strategic applications"
-      }
-    }
+  }
    ]
 }
