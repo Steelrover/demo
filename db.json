@@ -25,7 +25,7 @@
         "6": {"url": "https://pp.userapi.com/c635101/v635101770/56215/slcbTdIHZGA.jpg", "id": "6"}, 
         "7": {"url": "https://pp.userapi.com/c635101/v635101770/5615a/GvNsLEiVX8Y.jpg", "id": "7"}
       },
-      "publicOrder": ["6", "7"],
+      "publicOrder": [6, 7],
       "privateOrder": []
     },
     { "id": 4, "name": "Lean Graham", "modelId": 1, "dateAdd": "04.17.2019", 
