@@ -44,5 +44,11 @@
       "publicOrder": ["9"],
       "privateOrder": []
     }
-  ]
+  ],
+  "models": [
+    { "name": "Lean Graham", "modelId": 1, },
+    { "name": "Ervina Howell", "modelId": 2, },
+    { "name": "Victor Plains", "modelId": 3, },
+    { "name": "Clementina Bauch", "modelId": 4, },
+  ] 
 }
