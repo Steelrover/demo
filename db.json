@@ -47,15 +47,16 @@
   ],
   "models": [
     { "name": "Lean Graham", "id": 1, "modelAvatar": "https://pp.userapi.com/c851016/v851016571/143867/KRjf4zmKFps.jpg",
-      "age": 19 , "weight": 42, "height": 168, "nationality": "russian", "releases": 1,
+      "age": 19 , "weight": 42, "height": 168, "nationality": "russian", "releases": 1
     },
     { "name": "Ervina Howell", "id": 2, "modelAvatar": "https://pp.userapi.com/c849532/v849532433/1b2034/xyq93A6rnbw.jpg",
-      "age": 20, "weight": 50, "height": 170, "nationality": "", "releases": 1,
+      "age": 20, "weight": 50, "height": 170, "nationality": "", "releases": 1
     },
     { "name": "Victor Plains", "id": 3, "modelAvatar": "https://pp.userapi.com/c849432/v849432122/1412e/ZKFJMsuxtio.jpg",
-      "age": "", "weight": "", "height": "", "nationality": "", "releases": 1,
+      "age": "", "weight": "", "height": "", "nationality": "", "releases": 1
     },
     { "name": "Clementina Bauch", "id": 4, "modelAvatar": "https://pp.userapi.com/c604621/v604621942/4e7ed/SqGdPsSSKi4.jpg",
-      "age": 22, "weight": 46, "height": "", "nationality": "", "releases": 1, }
+      "age": 22, "weight": 46, "height": "", "nationality": "", "releases": 1
+    }
   ] 
 }
