@@ -46,9 +46,9 @@
     }
   ],
   "models": [
-    { "name": "Lean Graham", "modelId": 1, },
-    { "name": "Ervina Howell", "modelId": 2, },
-    { "name": "Victor Plains", "modelId": 3, },
-    { "name": "Clementina Bauch", "modelId": 4, },
+    { "name": "Lean Graham", "modelId": 1, "modelAvatar": "https://pp.userapi.com/c851016/v851016571/143867/KRjf4zmKFps.jpg",},
+    { "name": "Ervina Howell", "modelId": 2, "modelAvatar": "https://pp.userapi.com/c849532/v849532433/1b2034/xyq93A6rnbw.jpg", },
+    { "name": "Victor Plains", "modelId": 3, "modelAvatar": "https://pp.userapi.com/c849432/v849432122/1412e/ZKFJMsuxtio.jpg", },
+    { "name": "Clementina Bauch", "modelId": 4, "modelAvatar": "https://pp.userapi.com/c604621/v604621942/4e7ed/SqGdPsSSKi4.jpg", },
   ] 
 }
