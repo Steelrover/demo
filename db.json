@@ -53,9 +53,9 @@
       "age": 20, "weight": 50, "height": 170, "nationality": "", "releases": ,
     },
     { "name": "Victor Plains", "id": 3, "modelAvatar": "https://pp.userapi.com/c849432/v849432122/1412e/ZKFJMsuxtio.jpg",
-      "age": , "weight": , "height": , "nationality": "", "releases": ,
+      "age": "", "weight": "", "height": "", "nationality": "", "releases": ,
     },
     { "name": "Clementina Bauch", "id": 4, "modelAvatar": "https://pp.userapi.com/c604621/v604621942/4e7ed/SqGdPsSSKi4.jpg",
-      "age": 22, "weight": 46, "height": , "nationality": "", "releases": , }
+      "age": 22, "weight": 46, "height": "", "nationality": "", "releases": , }
   ] 
 }
